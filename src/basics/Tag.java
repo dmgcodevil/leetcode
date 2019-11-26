@@ -7,5 +7,7 @@ public enum Tag {
     TwoPointers,
     LinkedList,
     HashMap,
-    Math
+    Math,
+    DFS,
+    BFS
 }

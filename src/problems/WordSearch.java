@@ -17,7 +17,6 @@ public class WordSearch {
             {0, 1},
             {-1, 0},
             {1, 0},
-
     };
 
     static public boolean exist(char[][] board, String word) {

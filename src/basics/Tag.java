@@ -9,5 +9,6 @@ public enum Tag {
     HashMap,
     Math,
     DFS,
-    BFS
+    BFS,
+    DIJKSTRA
 }
